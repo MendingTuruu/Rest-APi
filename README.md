@@ -1,4 +1,4 @@
-# ```Alphabot-Api```
+# ```Rest-APi```
 <p align="center">
 <a href="https://github.com/mendingturuu/followers"><img title="Followers" src="https://img.shields.io/github/followers/mendingturuu?color=red&style=flat-square"></a>
 <a href="https://github.com/MendingTuruu/Rest-APi/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/MendingTuruu/Rest-APi?color=blue&style=flat-square"></a>
